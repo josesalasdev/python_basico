@@ -9,6 +9,9 @@ Una variable está compuesta por 3 componentes:
 * Operador de asignación: Es el símbolo “=” que describe la asignación del valor a la variable.
 * Valor: Es el dato guardamos en esta variable.
 
+<p style="text-align:center;">
+    <img src="../images/variable.png">
+</p>
 
 
 Recursos:
