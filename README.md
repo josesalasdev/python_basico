@@ -34,3 +34,4 @@
 * Instalacion de sublime text: https://www.sublimetext.com/3
 * Qué es python: https://desarrolloweb.com/articulos/1325.php
 * Qué es la terminal: https://terminaldelinux.com/terminal/introduccion/que-es-terminal/
+* Instalar GIT bash: https://git-scm.com/downloads
